@@ -49,7 +49,7 @@ const focusProducts = [
     img: "/abayas/abaya-product1.jpg",
     name: "Essential black abaya",
     fit: "Relaxed fit | Women",
-    price: "SAR 129",
+    price: "USD 129",
     swatches: ["#1c1c1c", "#7a9ab8"],
   },
   {
@@ -57,7 +57,7 @@ const focusProducts = [
     img: "/abayas/abaya-product2.jpg",
     name: "Embroidered abaya",
     fit: "A-line | Women",
-    price: "SAR 229",
+    price: "USD 229",
     swatches: ["#111111", "#c9a962"],
   },
   {
@@ -65,8 +65,8 @@ const focusProducts = [
     img: "/abayas/abaya-product3.jpg",
     name: "Open front abaya",
     fit: "Layered | Women",
-    priceWas: "SAR 249",
-    price: "SAR 119",
+    priceWas: "USD 249",
+    price: "USD 119",
     savePct: "51%",
     swatches: ["#2a2a2a"],
   },
@@ -75,7 +75,7 @@ const focusProducts = [
     img: "/abayas/abaya-product4.jpg",
     name: "Premium crepe abaya",
     fit: "Flowing | Women",
-    price: "SAR 289",
+    price: "USD 289",
     swatches: ["#3d3d3d", "#e8e8e8"],
   },
   {
@@ -83,7 +83,7 @@ const focusProducts = [
     img: "/abayas/abaya-product5.jpg",
     name: "Daily wear abaya",
     fit: "Easy care | Women",
-    price: "SAR 349",
+    price: "USD 349",
     swatches: ["#2d3142", "#5c4033"],
   },
 ];
@@ -110,7 +110,7 @@ const topsCarouselProducts = [
     img: "/abayas/abaya-product11.jpg",
     name: "Nida wrap abaya",
     fit: "Relaxed fit | Women",
-    price: "SAR 229",
+    price: "USD 229",
     swatches: ["#1a1a1a", "#7a9ab8"],
   },
   {
@@ -118,7 +118,7 @@ const topsCarouselProducts = [
     img: "/abayas/abaya-product12.jpg",
     name: "Chiffon layered abaya",
     fit: "Flowing | Women",
-    price: "SAR 149",
+    price: "USD 149",
     swatches: ["#3d4a3a"],
   },
   {
@@ -126,7 +126,7 @@ const topsCarouselProducts = [
     img: "/abayas/abaya-product13.jpg",
     name: "Belted kimono abaya",
     fit: "Tailored | Women",
-    price: "SAR 129",
+    price: "USD 129",
     swatches: ["#1c1c1c", "#7a9ab8"],
   },
   {
@@ -134,7 +134,7 @@ const topsCarouselProducts = [
     img: "/abayas/abaya-product14.jpg",
     name: "Pleated sleeve abaya",
     fit: "Classic | Women",
-    price: "SAR 169",
+    price: "USD 169",
     swatches: ["#f4f4f4", "#1e2a4a"],
   },
   {
@@ -142,7 +142,7 @@ const topsCarouselProducts = [
     img: "/abayas/abaya-product15.jpg",
     name: "Soft jersey inner dress",
     fit: "Essential | Women",
-    price: "SAR 169",
+    price: "USD 169",
     swatches: ["#eaeaea", "#1a1a1a"],
   },
   {
@@ -150,7 +150,7 @@ const topsCarouselProducts = [
     img: "/abayas/abaya-product16.jpg",
     name: "Linen blend abaya",
     fit: "Breathable | Women",
-    price: "SAR 119",
+    price: "USD 119",
     swatches: ["#2a2a2a"],
   },
   {
@@ -158,7 +158,7 @@ const topsCarouselProducts = [
     img: "/abayas/abaya-product17.jpg",
     name: "Evening drape abaya",
     fit: "Occasion | Women",
-    price: "SAR 289",
+    price: "USD 289",
     swatches: ["#3d3d3d", "#e8e8e8"],
   },
   {
@@ -166,7 +166,7 @@ const topsCarouselProducts = [
     img: "/abayas/abaya-product18.jpg",
     name: "Minimal closed abaya",
     fit: "Streamlined | Women",
-    price: "SAR 349",
+    price: "USD 349",
     swatches: ["#2d3142", "#5c4033"],
   },
 ];
@@ -177,7 +177,7 @@ const footwearCarouselProducts = [
     img: "/abayas/abaya-product19.jpg",
     name: "Silk square hijab",
     fit: "Women",
-    price: "SAR 89",
+    price: "USD 89",
     swatches: ["#1a1a1a", "#f5f5f5"],
   },
   {
@@ -185,7 +185,7 @@ const footwearCarouselProducts = [
     img: "/abayas/abaya-product20.jpg",
     name: "Structured leather tote",
     fit: "Women",
-    price: "SAR 599",
+    price: "USD 599",
     swatches: ["#1c1c1c", "#b89aa0"],
   },
   {
@@ -193,7 +193,7 @@ const footwearCarouselProducts = [
     img: "/abayas/abaya-product21.jpg",
     name: "Undercap set",
     fit: "Women",
-    price: "SAR 45",
+    price: "USD 45",
     swatches: ["#d4c4b0", "#c9a88a"],
   },
   {
@@ -201,7 +201,7 @@ const footwearCarouselProducts = [
     img: "/abayas/abaya-product22.jpg",
     name: "Chain strap crossbody",
     fit: "Women",
-    price: "SAR 199",
+    price: "USD 199",
     swatches: ["#c8c8c8", "#4a5a3a", "#1e2a4a"],
   },
   {
@@ -209,7 +209,7 @@ const footwearCarouselProducts = [
     img: "/abayas/abaya-product23.jpg",
     name: "Chiffon hijab duo",
     fit: "Women",
-    price: "SAR 99",
+    price: "USD 99",
     swatches: ["#121212", "#eaeaea"],
   },
   {
@@ -217,7 +217,7 @@ const footwearCarouselProducts = [
     img: "/abayas/abaya-product24.jpg",
     name: "Evening clutch",
     fit: "Women",
-    price: "SAR 269",
+    price: "USD 269",
     swatches: ["#2a2a2a", "#8a8a8a"],
   },
   {
@@ -225,7 +225,7 @@ const footwearCarouselProducts = [
     img: "/abayas/abaya-product25.jpg",
     name: "Minimal leather belt",
     fit: "Women",
-    price: "SAR 109",
+    price: "USD 109",
     swatches: ["#1a1a1a", "#d8d8d8"],
   },
   {
@@ -233,7 +233,7 @@ const footwearCarouselProducts = [
     img: "/abayas/abaya-product26.jpg",
     name: "Pearl accent brooch",
     fit: "Women",
-    price: "SAR 69",
+    price: "USD 69",
     swatches: ["#2d3142", "#e8e8e8"],
   },
 ];
@@ -244,7 +244,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-01.jpg",
     name: "Classic black abaya",
     fit: "Relaxed fit | Women",
-    price: "SAR 129",
+    price: "USD 129",
     swatches: ["#1a1a1a", "#f5f5f5"],
   },
   {
@@ -252,7 +252,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-02.jpg",
     name: "Embroidered open abaya",
     fit: "Layered | Women",
-    price: "SAR 269",
+    price: "USD 269",
     swatches: ["#7eb8d9", "#5c4033"],
   },
   {
@@ -260,7 +260,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-03.jpg",
     name: "Satin modest set",
     fit: "Co-ord | Women",
-    price: "SAR 199",
+    price: "USD 199",
     swatches: ["#1e3d2f", "#121212"],
   },
   {
@@ -268,7 +268,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-04.jpg",
     name: "Crepe daily abaya",
     fit: "Easy care | Women",
-    price: "SAR 199",
+    price: "USD 199",
     swatches: ["#ffffff", "#1e3d2f"],
   },
   {
@@ -276,7 +276,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-05.jpg",
     name: "Luxury kaftan",
     fit: "Occasion | Women",
-    price: "SAR 249",
+    price: "USD 249",
     swatches: ["#1a2744", "#5c4033"],
   },
   {
@@ -284,7 +284,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-06.jpg",
     name: "Hijab set",
     fit: "Women",
-    price: "SAR 189",
+    price: "USD 189",
     swatches: ["#c4b8a8", "#2a2a2a"],
   },
   {
@@ -292,7 +292,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-07.jpg",
     name: "Nida fabric abaya",
     fit: "Tailored | Women",
-    price: "SAR 289",
+    price: "USD 289",
     swatches: ["#3d4f6b", "#8b7355"],
   },
   {
@@ -300,7 +300,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-08.jpg",
     name: "Beaded evening abaya",
     fit: "Evening | Women",
-    price: "SAR 139",
+    price: "USD 139",
     swatches: ["#e8e4dc", "#1c1c1c"],
   },
   {
@@ -308,7 +308,7 @@ const newTrendingProducts = [
     img: "/abayas/new-trending-09.jpg",
     name: "Linen layered abaya",
     fit: "Breathable | Women",
-    price: "SAR 189",
+    price: "USD 189",
     swatches: ["#8fa3b0", "#f0ebe3"],
   },
 ];
